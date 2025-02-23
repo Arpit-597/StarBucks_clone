@@ -363,7 +363,7 @@ section.Part-4 {
     background: linear-gradient(359.89deg, rgba(0, 0, 0, 0.74) 19.45%,
             rgba(0, 0, 0, 0.38) 55.07%,
             rgba(0, 0, 0, 0) 73.63%),
-        url('/assets/coffee.png');
+        url('./assets/coffee.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -473,7 +473,7 @@ section.Part-1 {
     margin: 40px auto;
     width: 73em;
     height: 220px;
-    background-image: url(/assets/bg-2.png);
+    background-image: url(./assets/bg-2.png);
     border-radius: 8px;
     display: flex;
     position: relative;
